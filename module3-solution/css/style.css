@@ -1,0 +1,14 @@
+*{
+	font-family: comic sans ms;
+}
+h1{
+	margin-bottom: 50px;
+}
+.chicken
+{
+	background-color: #ffc107;
+	padding-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
